@@ -5,14 +5,17 @@
   
 **nikko asube**
 - playing moba
--   
+   
  **marcky cañete**
   - playing moba
 </details>
 
-
-
   # **our talent**
   - playing guitar
   - basketball
+
+ # **DESCRIPTION**
+ 
+    
+
     
