@@ -20,7 +20,6 @@
  </summary>
 
    - Top slacker sa bahay
-   - 
 
  </details>
     
