@@ -1,2 +1,18 @@
-**Inventory**
-https://canva.link/7d3k34h8wqlm3sj
+# **our portfolio**
+## nikko and marcky. ##
+**this is  our  hubby**
+<details>   
+  
+**nikko asube**
+- playing moba
+-   
+ **marcky cañete**
+  - playing moba
+</details>
+
+
+
+  # **our talent**
+  - playing guitar
+  - basketball
+    
