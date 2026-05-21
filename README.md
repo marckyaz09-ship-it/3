@@ -19,7 +19,9 @@
 
  <details> 
  <summary><b>View Achievement 
+
  </summary>
+
      Top slacker sa bahay
  </details>
     
