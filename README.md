@@ -4,12 +4,13 @@
 <details>   
 
   - playing moba
+  - calisthenics exercises
 
 </details>
 
-  # **our talent**
-  - playing guitar
-  - basketball
+  # **talent(hidden)**
+  - uselessly good memory
+  - good at adapting
 
  # **DESCRIPTION**
  - My name is Marcky Cielo Cañete. I am 18 years old, studying Information and Technology in Fulbright College.
