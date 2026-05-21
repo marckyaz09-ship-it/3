@@ -19,7 +19,7 @@
 
  </summary>
 
-     Top slacker sa bahay
+   - Top slacker sa bahay
  </details>
     
 
