@@ -1,13 +1,10 @@
-# **our portfolio**
-## nikko and marcky. ##
-**this is  our  hubby**
+# **portfolio**
+## marcky. ##
+**this is  my hubby**
 <details>   
-  
-**nikko asube**
-- playing moba
-   
- **marcky cañete**
+
   - playing moba
+
 </details>
 
   # **our talent**
