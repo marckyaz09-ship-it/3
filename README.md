@@ -8,9 +8,8 @@
 
 </details>
 
-  # **talent(hidden)**
+  # **talent**
   - uselessly good memory
-  - good at adapting
 
  # **DESCRIPTION**
  - My name is Marcky Cielo Cañete. I am 18 years old, studying Information and Technology in Fulbright College.
@@ -21,6 +20,8 @@
  </summary>
 
    - Top slacker sa bahay
+   - 
+
  </details>
     
 
